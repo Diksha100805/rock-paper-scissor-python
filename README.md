@@ -22,7 +22,3 @@ The user plays against the computer, and the winner is decided based on the clas
 4. Run the following command:
 
 python rock_paper_scissors.py
-
-## 👩‍💻 Author
-Diksha  
-CodSoft Internship
